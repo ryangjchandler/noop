@@ -1,3 +1,8 @@
 {
-    "name": "ryangjchandler/noop"
+    "name": "ryangjchandler/noop",
+    "autoload": {
+        "files": [
+            "./noop.php"
+        ]
+    }
 }
